@@ -28,6 +28,11 @@ Download the [zip from GitHub](https://github.com/mskri/kiboku-iterm/archive/mas
 4. Select `Kiboku.itermcolors` file
 5. Select _Kiboku_ from _Color Presets..._ to active it
 
+
+## Available also for these applications
+
+- VS Code: [kiboku-vscode-theme](https://github.com/mskri/kiboku-vscode-theme)
+
 ## License
 
 [MIT](./LICENSE)
